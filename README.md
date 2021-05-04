@@ -3,17 +3,6 @@ All language detail
 
 
 
-
-<h1 align="center">
-	<br>
-	<img width="400" src="https://rawgit.com/sindresorhus/awesome/master/media/logo.svg" alt="awesome">
-	<br>
-	<br>
-	<br>
-</h1>
-
-> A curated list of awesome lists
-
 [What makes for an awesome list?](awesome.md)
 
 If you want to contribute, please read the [contribution guidelines](contributing.md).
